@@ -1,2 +1,0 @@
-# RN
-Created with CodeSandbox
